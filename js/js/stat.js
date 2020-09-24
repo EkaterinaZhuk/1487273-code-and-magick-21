@@ -1,1 +1,1 @@
-var cat = 9 > 0;
+var cat = 9 > 1;
