@@ -1,3 +1,1 @@
-var cat = function (gameFieldHeight) {
-  return gameFieldHeight / 3;
-};
+var cat = 7 > 5;
